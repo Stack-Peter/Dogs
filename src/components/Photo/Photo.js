@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router";
-import { VIEW_GET } from "../../Api";
+import { VIEW_GET } from "../../api";
 import useFetch from "../../Hooks/useFetch";
 import Error from "../Helper/Error";
 import Head from "../Helper/Head";
